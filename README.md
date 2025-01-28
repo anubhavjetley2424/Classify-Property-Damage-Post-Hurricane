@@ -23,9 +23,7 @@ https://www.kaggle.com/datasets/swarnava007/post-hurricane
 2	ResNet50	0.98822	0.05006	0.99707	0.94586	57668481
 3	Xception	0.98922	0.03069	0.99927	0.95298	54942249
 
-![image](https://github.com/user-attachments/assets/136267c7-ff7d-4cab-af81-c1123ae38eff)
-
-![image](https://github.com/user-attachments/assets/692f93aa-7b46-4912-b0b4-06de5c262383)
+![image](https://github.com/user-attachments/assets/136267c7-ff7d-4cab-af81-c1123ae38eff)    ![image](https://github.com/user-attachments/assets/692f93aa-7b46-4912-b0b4-06de5c262383)
 
 ![image](https://github.com/user-attachments/assets/3244e7a9-3c78-4451-b1d9-ed99492c3332)
 
