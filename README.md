@@ -17,11 +17,11 @@ https://www.kaggle.com/datasets/swarnava007/post-hurricane
 
 # Results 
 
-	Model Name	Accuracy(unbalanced test)	Loss(unbalanced test)	ROC_AUC	F1 Score	Model Parameter
-0	Baseline CNN	0.93811	0.28326	0.94336	0.75255	76993
-1	Custom CNN	0.95044	0.05006	0.92907	0.79428	664225
-2	ResNet50	0.98822	0.05006	0.99707	0.94586	57668481
-3	Xception	0.98922	0.03069	0.99927	0.95298	54942249
+Model Name	Accuracy(unbalanced test)	Loss(unbalanced test)	ROC_AUC	F1 Score	Model Parameter
+- Baseline CNN	0.93811	0.28326	0.94336	0.75255	76993
+- Custom CNN	0.95044	0.05006	0.92907	0.79428	664225
+- ResNet50	0.98822	0.05006	0.99707	0.94586	57668481
+- Xception	0.98922	0.03069	0.99927	0.95298	54942249
 
 ![image](https://github.com/user-attachments/assets/136267c7-ff7d-4cab-af81-c1123ae38eff)    ![image](https://github.com/user-attachments/assets/692f93aa-7b46-4912-b0b4-06de5c262383)
 
